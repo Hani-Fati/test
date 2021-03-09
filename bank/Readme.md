@@ -56,7 +56,7 @@ Contents:
 ## Calculation and IO
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
-| q1 | 5 | fall2016-homework1 |   https://github.com/aut-ce/CE101-C/blob/master/Fall-2015/HW-3/p3/p3.md   |
+| q1 | 5 | `fall2016-homework1` | [:link:](https://github.com/aut-ce/CE101-C/blob/master/Fall-2015/HW-3/p3/p3.md)   |
 |             |            |             |      |
 |             |            |             |      |
 
