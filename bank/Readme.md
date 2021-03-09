@@ -56,7 +56,7 @@ Contents:
 ## Calculation and IO
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
-|             |            |             |      |
+| q1 | 5 |             |      |
 |             |            |             |      |
 |             |            |             |      |
 
